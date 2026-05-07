@@ -10,6 +10,7 @@ Elisa Bassignana (elba@itu.dk)
 
 How to cite:
 
+```
 @inproceedings{muti-etal-2026-acid,
   title = {ACID: On the Perception of Online Classism},
   author = {Muti, Arianna and Bassignana, Elisa and Curry, Amanda Cercas and Durante, Federica and Hovy, Dirk and Nozza, Debora},
@@ -21,3 +22,4 @@ How to cite:
   publisher = {European Language Resources Association (ELRA)},
   doi = {10.63317/2myisgn9aju6},
   }
+```
